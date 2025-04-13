@@ -6,12 +6,29 @@
     "configurations": [
         {
             "type": "java",
+            "name": "textFile",
+            "request": "launch",
+            "mainClass": "textFile",
+            "projectName": "javaFX-project_e851cd86",
+            "vmArgs": "--module-path C:/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "KalkulatorApp",
+            "request": "launch",
+            "mainClass": "KalkulatorApp",
+            "projectName": "javaFX-project_e851cd86",
+            "vmArgs": "--module-path C:/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "KalkulatorApp",
             "request": "launch",
             "mainClass": "KalkulatorApp",
             "projectName": "HelloFX_3d62e82b",
             "vmArgs": "--module-path C:/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml"
-        },        
+        },
         {
             "type": "java",
             "name": "FactorialApp",

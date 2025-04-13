@@ -16,6 +16,6 @@
         "c:\\javafx-sdk-24\\lib\\jfx.incubator.input.jar",
         "c:\\javafx-sdk-24\\lib\\jfx.incubator.richtext.jar"
     ],
-    "java.project.vmArgs": "--module-path C:/javafx-sdk-24/lib --add-modules javafx.controls"
+    "java.project.vmArgs": "--module-path C:/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml"
 
 }
