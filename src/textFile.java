@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class textFile extends Application {
-    private static final String NAMA_FILE = "src/dataAja.txt";
+    private static final String NAMA_FILE = "src/AdrianZidan_24552011224.txt";
 
     @Override
     public void start(Stage stage) {
